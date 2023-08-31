@@ -17,5 +17,3 @@ target_link_libraries(ctello PRIVATE)
 
 install(TARGETS ctello DESTINATION lib)
 install(FILES include/ctello.h DESTINATION include)
-add_executable(check examples/flip.cpp)
-target_link_libraries(check ctello -lpthread)

@@ -1,3 +1,6 @@
+## fork changes
+simple cmake adaptation. honestly just take the original repo.
+
 # CTello
 CTello is a C++ library to interact with the **DJI Ryze Tello Drone** using the
 **Tello SDK 2.0**.
